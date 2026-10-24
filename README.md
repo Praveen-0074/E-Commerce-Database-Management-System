@@ -4,6 +4,18 @@
 
 This project uses MySQL to manage and analyze e-commerce data, including customers, orders, products, payments, and shipping.
 
+## 🗄️ Database Structure
+
+The database manages key e-commerce operations involving:
+
+* Customers
+* Products
+* Orders
+* Payments
+* Shipping
+
+SQL queries are used to retrieve, analyze, and manage e-commerce data.
+
 ## Tools Used
 
 * MySQL
@@ -31,7 +43,10 @@ This project uses MySQL to manage and analyze e-commerce data, including custome
 8. Set default loyalty points using a trigger.
 9. Automatically update product stock after an order.
 
-## Key Learning
+## 🎯 Key Learning
 
-Improved my SQL skills in data analysis, database management, and automation using stored procedures and triggers.
+* Practiced SQL queries to analyze e-commerce data.
+* Improved understanding of joins, subqueries, and aggregate functions.
+* Learned to automate database operations using stored procedures and triggers.
+* Gained practical experience in database management and data analysis.
 
